@@ -1,4 +1,7 @@
+
 # The Redox project repository
+
+NOTE: This a fork Redox called ReRedox. The main difference is even smaller size (removes the outer column of keys).
 
 <p align="center">
 <img src="img/redox-logo.png" alt="Redox logo" width="600"/>
